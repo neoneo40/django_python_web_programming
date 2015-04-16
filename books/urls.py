@@ -2,7 +2,7 @@ from django.conf.urls import patterns, url
 from books import views
 
 urlpatterns = patterns('',
-    url(r'^$', 'views.BooksModelView.as_view()', name='index'),
+    url(r'^$', views.BooksModelView.as_view(), name='index'),
 
     url(r'^book/$', views.BookList.as_view(), name='book_list'),
     url(r'^author/$', views.AuthorList.as_view(), name='author_list'),
