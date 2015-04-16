@@ -26,3 +26,10 @@
 - 공홈을 한 번 해봤었는데 영어 때문에 70% 정도 밖에 이해가 되지 않았는데 이 책 때문에 많은 부분이 이해가 됐습니다.
   - 특히, 1장 후반, 2장 웹 서버 라이브러리들의 진화도가 굉장히 좋더군요. get, head, post가 어떻게 진화가 되었고, 왜 웹 애플리케이션 서버가 나올 수 밖에 없었는지 부분. CGI, WSGI의 상세한 설명.
   - 전반적으로 핵심적인 내용들은 그림아나 표로 잘 정리되어 있어서 만족했습니다.
+
+## Jupyter로 정리한 내용
+
+- [2장 파이썬 웹 표준 라이브러리](http://nbviewer.ipython.org/github/re4lfl0w/django_python_web_programming/blob/master/ch02.ipynb)
+- [3장 django 웹 프레임워크](http://nbviewer.ipython.org/github/re4lfl0w/django_python_web_programming/blob/master/ch03.ipynb)
+- [4장 (Django의 핵심기능: 이건 책에 잘 나와있어서 안함)](http://nbviewer.ipython.org/github/re4lfl0w/django_python_web_programming/blob/master/ch04.ipynb)
+- [5장 실습 예제 확장하기](http://nbviewer.ipython.org/github/re4lfl0w/django_python_web_programming/blob/master/ch05.ipynb)
